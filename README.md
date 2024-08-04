@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Fraile</h1>
 <h3 align="center">A passionate backend developer from Spain</h3>
 
-- 🔭I'm currently working as a hobby with my friends on [ThePandogsGames](https://github.com/thepandogsgames) making games in **unity**.
+- 🔭I'm currently working on [ThePandogsGames](https://github.com/thepandogsgames) making games in **unity**.
 
 - 🌱 I’m currently learning **BigData, Testing, Python**
 
