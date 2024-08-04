@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **carlosfraileduran@gmail.com**
 
-- 🌐 Web **https://thepandogs.dev**
+- 🌐 Web [ThePandogsDev](https://thepandogs.dev)
 
 
 <h3 align="left">Connect with me:</h3>
