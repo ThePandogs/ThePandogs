@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at my github profile.
 
-- 💬 About my actual Studies: Currently, my knowledge includes **MySQL**, **Java**, **markup languages**, **project analysis and design**, **computer systems** (Windows and Linux) for both client and server. This year, I have been refining my skills in **data access**, **interface design**, and **applications for business management**, specifically **Odoo**. Additionally, I have been working on **programming services and processes**. I am also **developing applications in Android Studio**.
-
 - 📫 How to reach me **carlosfraileduran@gmail.com**
 
 - 🌐 Web [ThePandogsDev](https://thepandogs.dev)
